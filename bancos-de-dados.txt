@@ -1,0 +1,7 @@
+MariaDB
+
+MariaDB é um fork do MySQL.Os desenvolvedores queriam preservar a estrutura e funções do MySQL. Eles tinham medo de que a aquisição do sistema pela Oracle iria prejudicar o banco de dados. Os desenvolvedores do MariaDB garantem que cada lançamento seja compatível com a versão correspondente do MySQL. O objetivo é deixar os usuários do MySQL trocar para o MariaDB sem preocupações.
+
+Snowflake
+
+Snowflake é um software como serviço que disponibiliza uma plataforma para armazenamento de dados, data lakes, engenharia de dados, compartilhamento e consumo de dados em tempo real,etc. 
